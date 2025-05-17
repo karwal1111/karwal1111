@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
 
 ## 💫 About Me:
-🌱 I’m currently learning Backend<br>👯 I’m looking to collaborate on Web and Android apps<br>💬 Ask me about Full Stack Developer/ AI ML/ Cybersecurity Ex-Bosch, Ex-DELL. Hyderabad->Bangalore->Chandigarh->Jaipur<br>📫 How to reach me: karwal.abhishek@gmail.com<br>
+🌱 I’m always learning new<br>👯 I’m looking to collaborate on Web and Android apps<br>💬 About me: Full Stack Developer/ AI ML/ Cybersecurity Ex-Bosch, Ex-DELL. Hyderabad->Bangalore->Chandigarh->Jaipur<br>📫 How to reach me: karwal.abhishek@gmail.com<br>
 
 
 ## 💻 Tech Stack:
